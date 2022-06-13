@@ -1,0 +1,22 @@
+h1{
+    color:#2296C7;
+    font-size: 40px;
+    font-family: sans-serif;
+    text-align: center;
+    }
+    
+    th{
+        font-weight: 800;
+        font-family: Arial, Helvetica, sans-serif;
+        background-color: rgba(20, 245, 245, 0.808);
+    }
+    
+    table{
+        font-family: sans-serif serif;
+        font-weight: 600;
+        border-collapse: collapse;
+        background-color: #2296C7;
+        border-width: 2px;
+        border-style:groove;
+        border-color: rgb(0, 4, 7);
+    }
